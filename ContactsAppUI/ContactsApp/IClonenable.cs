@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ContactsApp
 {
-    public class Class1
+    /// <summary>
+    /// Интерфейс клоинрования
+    /// </summary>
+    public interface ICloneable
     {
+        object Clone();
     }
+
 }

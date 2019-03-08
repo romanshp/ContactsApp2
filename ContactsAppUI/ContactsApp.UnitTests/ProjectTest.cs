@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactsApp
+namespace ContactsApp.UnitTests
 {
-    class Class2
+    class ProjectTest
     {
     }
 }
