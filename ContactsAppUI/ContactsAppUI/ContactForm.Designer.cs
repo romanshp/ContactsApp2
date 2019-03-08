@@ -60,7 +60,7 @@
             // 
             this.Cancelbutton.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Cancelbutton.Location = new System.Drawing.Point(388, 299);
+            this.Cancelbutton.Location = new System.Drawing.Point(390, 299);
             this.Cancelbutton.Name = "Cancelbutton";
             this.Cancelbutton.Size = new System.Drawing.Size(72, 64);
             this.Cancelbutton.TabIndex = 1;
